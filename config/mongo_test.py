@@ -1,0 +1,3 @@
+from config.database import check_mongodb_connection
+
+check_mongodb_connection()
